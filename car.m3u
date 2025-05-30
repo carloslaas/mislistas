@@ -7371,3 +7371,1245 @@ http://frontend.ventisca.xyz:2095/catipalomaresbar/catipalomaresbarpsw/33
 http://frontend.ventisca.xyz:2095/catipalomaresbar/catipalomaresbarpsw/47394
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 720" tvg-logo="https://picons.ventisquero.top/picons/spain/dazn-f1-es.png" group-title="DAZN MOVISTAR-SERVER19",DAZN F1 HD 720
 http://frontend.ventisca.xyz:2095/catipalomaresbar/catipalomaresbarpsw/46889
+#EXTM3U
+#EXTINF:-1 tvg-name="SP| -----SPAIN-----" tvg-logo="http://logo.sltv.site/logo/flag/spain.png" group-title="▶️ ES | ESPANA/TDT-portugal",SP| -----SPAIN-----
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/135943
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES | LA 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA 1 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686204
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES | LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA 1 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686203
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES | LA 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA 1 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686202
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES | LA 1 UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA 1 UHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686201
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES | LA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686200
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES | LA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686199
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES | LA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/643px-Logo_TVE-2.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686198
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES | LA 2 FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA 2 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686197
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES | ANTENA 3 SD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/Antena-3-Logo-500x281.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | ANTENA 3 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686196
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES | ANTENA 3 HD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/Antena-3-Logo-500x281.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | ANTENA 3 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686195
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES | ANTENA 3 FHD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/Antena-3-Logo-500x281.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | ANTENA 3 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686194
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES | ANTENA 3 FHD 1080p" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/Antena-3-Logo-500x281.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | ANTENA 3 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686193
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES | CUATRO SD" tvg-logo="https://prnoticias.com/wp-content/uploads/2023/11/cuatro-750x375-1.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | CUATRO SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686192
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES | CUATRO HD" tvg-logo="https://prnoticias.com/wp-content/uploads/2023/11/cuatro-750x375-1.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | CUATRO HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686191
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES | CUATRO FHD" tvg-logo="https://prnoticias.com/wp-content/uploads/2023/11/cuatro-750x375-1.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | CUATRO FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686190
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES | CUATRO FHD 1080p" tvg-logo="https://prnoticias.com/wp-content/uploads/2023/11/cuatro-750x375-1.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | CUATRO FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686189
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES | TELECINCO SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TELECINCO SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686188
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES | TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TELECINCO HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686187
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES | TELECINCO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TELECINCO FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686186
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES | TELECINCO FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TELECINCO FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686185
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES | LA SEXTA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA SEXTA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686184
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES | LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA SEXTA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686183
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES | LA SEXTA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA SEXTA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686182
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES | LA SEXTA FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | LA SEXTA FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686181
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES | 24H" tvg-logo="https://i.imgur.com/9SSSwx0.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | 24H
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686180
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES | 24 HORAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | 24 HORAS SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686179
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES | 24 HORAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | 24 HORAS FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686178
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES | TEN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TEN SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686177
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES | TEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TEN HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/765714
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES | DKISS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | DKISS SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686176
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES | DKISS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | DKISS FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/765715
+#EXTINF:-1 tvg-name="ES | CANAL SUR ANDALUCIA HD" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="▶️ ES | ESPANA/TDT-portugal",ES | CANAL SUR ANDALUCIA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686175
+#EXTINF:-1 tvg-name="ES | TV GALICIA" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TV GALICIA
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686174
+#EXTINF:-1 tvg-id="canalextremadura.es" tvg-name="ES | Extremadura TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/800px-CEXMA_new.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Extremadura TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686173
+#EXTINF:-1 tvg-name="ES | 8 La Marina TV" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | 8 La Marina TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686170
+#EXTINF:-1 tvg-name="ES | Afortunadas TV" tvg-logo="https://i.imgur.com/geVZYUA.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Afortunadas TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686168
+#EXTINF:-1 tvg-name="ES | Alacantí TV" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Alacantí TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686167
+#EXTINF:-1 tvg-name="ES | Alcarria TV" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Alcarria TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686166
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ES | Aragón TV" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Aragón TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686165
+#EXTINF:-1 tvg-name="ES | Bailén TV" tvg-logo="https://i.imgur.com/a64hwzq.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Bailén TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686164
+#EXTINF:-1 tvg-name="ES | betevé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | betevé
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686163
+#EXTINF:-1 tvg-name="ES | Bloomberg TV Europe" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Bloomberg TV Europe
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686162
+#EXTINF:-1 tvg-name="ES | Bon Dia TV" tvg-logo="https://i.imgur.com/90WOoro.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Bon Dia TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686161
+#EXTINF:-1 tvg-name="ES | Burriana TV" tvg-logo="https://i.imgur.com/G3nIGHh.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Burriana TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686160
+#EXTINF:-1 tvg-name="ES | Cadena Elite" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Cadena Elite
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686159
+#EXTINF:-1 tvg-name="ES | Caillou" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Caillou
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686158
+#EXTINF:-1 tvg-name="ES | Canal 1 Mar Menor-Torre Pacheco" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 1 Mar Menor-Torre Pacheco
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686157
+#EXTINF:-1 tvg-name="ES | Canal 4 Mallorca" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 4 Mallorca
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686156
+#EXTINF:-1 tvg-name="ES | Canal 24 Horas" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 24 Horas
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686155
+#EXTINF:-1 tvg-name="ES | Canal 24 Horas Canarias" tvg-logo="https://i.imgur.com/tiv24xx.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 24 Horas Canarias
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686154
+#EXTINF:-1 tvg-name="ES | Canal 24 Horas Catalunya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 24 Horas Catalunya
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686153
+#EXTINF:-1 tvg-name="ES | Canal 25 TV (Barbastro)" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 25 TV (Barbastro)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686152
+#EXTINF:-1 tvg-name="ES | Canal 33 Madrid" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 33 Madrid
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686151
+#EXTINF:-1 tvg-name="ES | Canal 56" tvg-logo="https://i.imgur.com/pwRVbCz.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 56
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686150
+#EXTINF:-1 tvg-name="ES | Canal 2000 La Solana" tvg-logo="https://i.imgur.com/9RoBASf.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal 2000 La Solana
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686149
+#EXTINF:-1 tvg-name="ES | Canal Doñana" tvg-logo="https://i.imgur.com/0WrKIxm.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal Doñana
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686148
+#EXTINF:-1 tvg-name="ES | Canal Málaga RTV" tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal Málaga RTV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686147
+#EXTINF:-1 tvg-name="ES | Canal Parlamento" tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Canal Parlamento
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686146
+#EXTINF:-1 tvg-id="etb1.es" tvg-name="ES | ETB 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | ETB 1
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686145
+#EXTINF:-1 tvg-id="etb2.es" tvg-name="ES | ETB 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | ETB 2
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686144
+#EXTINF:-1 tvg-name="ES | Elche 7 TV" tvg-logo="https://i.imgur.com/tjI0dLx.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Elche 7 TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686143
+#EXTINF:-1 tvg-name="ES | Á Punt FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Á Punt FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686140
+#EXTINF:-1 tvg-name="ES | TVG2" tvg-logo="https://i.imgur.com/tn7jxyU.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TVG2
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686138
+#EXTINF:-1 tvg-name="ES | TVG  HD" tvg-logo="https://i.imgur.com/VGovTR1.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TVG  HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686137
+#EXTINF:-1 tvg-name="ES | Urola Telebista" tvg-logo="https://i.imgur.com/V23bltn.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | Urola Telebista
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686131
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="ES | CANAL SUR 2 HD" group-title="▶️ ES | ESPANA/TDT-portugal",ES | CANAL SUR 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686128
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ES | ARAGON TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGON.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | ARAGON TV HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686119
+#EXTINF:-1 tvg-id="tvcanaria.es" tvg-name="ES | TV CANARIA FHD" tvg-logo="https://i.imgur.com/W07bLR4.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TV CANARIA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686118
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="ES | CANAL SUR HD" tvg-logo="s:1:/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WKlF1eRscUzvfM0fmAsRPnQ.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | CANAL SUR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686117
+#EXTINF:-1 tvg-name="ES | CANAL MALAGA" group-title="▶️ ES | ESPANA/TDT-portugal",ES | CANAL MALAGA
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686116
+#EXTINF:-1 tvg-id="tv3cat.es" tvg-name="ES | TV3 HD" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TV3 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686114
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES | TELEMADRID  HD" group-title="▶️ ES | ESPANA/TDT-portugal",ES | TELEMADRID  HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686113
+#EXTINF:-1 tvg-name="GRA HERMANO DUO 24 HORAS" group-title="▶️ ES | ESPANA/TDT-portugal",GRA HERMANO DUO 24 HORAS
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686112
+#EXTINF:-1 tvg-name="ES | OT 24 HORAS" group-title="▶️ ES | ESPANA/TDT-portugal",ES | OT 24 HORAS
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686111
+#EXTINF:-1 tvg-name="ES | FDF FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="▶️ ES | ESPANA/TDT-portugal",ES | FDF FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/763802
+#EXTINF:-1 tvg-name="SP| ----- CINE -----" tvg-logo="http://logo.sltv.site/logo/flag/spain.png" group-title="▶️ ES | CINE-SERIES-portugal",SP| ----- CINE -----
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/178155
+#EXTINF:-1 tvg-name="ES | BEMAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BEMAD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686376
+#EXTINF:-1 tvg-name="ES | BEMAD TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BEMAD TV HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686375
+#EXTINF:-1 tvg-name="ES | BEMAD TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BEMAD TV FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686374
+#EXTINF:-1 tvg-name="ES | A3SERIES  FHD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | A3SERIES  FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686373
+#EXTINF:-1 tvg-name="ES | A3SERIES" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | A3SERIES
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686372
+#EXTINF:-1 tvg-name="ES | A3SERIES FHD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Atresseries.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | A3SERIES FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686371
+#EXTINF:-1 tvg-name="ES | NEOX  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | NEOX  FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686370
+#EXTINF:-1 tvg-name="ES | NEOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | NEOX HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686369
+#EXTINF:-1 tvg-name="ES | NEOX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | NEOX SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686368
+#EXTINF:-1 tvg-name="ES | NOVA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | NOVA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686367
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES | NOVA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | NOVA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686366
+#EXTINF:-1 tvg-name="ES | NOVA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | NOVA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686365
+#EXTINF:-1 tvg-name="ES | ENERGY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ENERGY FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686364
+#EXTINF:-1 tvg-name="ES | ENERGY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ENERGY HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686363
+#EXTINF:-1 tvg-name="ES | ENERGY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ENERGY SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686362
+#EXTINF:-1 tvg-name="ES | DIVINITY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DIVINITY HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686361
+#EXTINF:-1 tvg-name="ES | FDF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | FDF HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686360
+#EXTINF:-1 tvg-name="ES | MEGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | MEGA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686359
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES | MEGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | MEGA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686358
+#EXTINF:-1 tvg-name="ES | DMAX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DMAX SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686357
+#EXTINF:-1 tvg-name="ES | DMAX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DMAX FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686356
+#EXTINF:-1 tvg-name="ES | ENFAMILIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ENFAMILIA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686353
+#EXTINF:-1 tvg-name="ES | ENFAMILIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ENFAMILIA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686352
+#EXTINF:-1 tvg-name="ES | ENFAMILIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ENFAMILIA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686351
+#EXTINF:-1 tvg-name="ES | BUEN VIAJE! SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BUEN VIAJE! SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686350
+#EXTINF:-1 tvg-name="ES | BUEN VIAJE! HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BUEN VIAJE! HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686349
+#EXTINF:-1 tvg-name="ES | BUEN VIAJE! FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BUEN VIAJE! FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686348
+#EXTINF:-1 tvg-name="ES | M+ LA RESISTENCIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ LA RESISTENCIA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686347
+#EXTINF:-1 tvg-name="ES | LA RESISTENCIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | LA RESISTENCIA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686346
+#EXTINF:-1 tvg-name="ES | M+ NEGOCIOS HD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ NEGOCIOS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686345
+#EXTINF:-1 tvg-name="ES | M+ NEGOCIOS" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ NEGOCIOS
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686344
+#EXTINF:-1 tvg-name="ES | CINE ESPAÑOL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | CINE ESPAÑOL SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686343
+#EXTINF:-1 tvg-name="ES | M+ CINE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ CINE SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686342
+#EXTINF:-1 tvg-name="ES | M+ CINE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ CINE HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686341
+#EXTINF:-1 tvg-name="ES | M+ CINE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ CINE FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686340
+#EXTINF:-1 tvg-name="ES | M+ ACCION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ ACCION SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686338
+#EXTINF:-1 tvg-name="ES | M+ ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ ACCION HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686337
+#EXTINF:-1 tvg-name="ES | M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ ACCION FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686336
+#EXTINF:-1 tvg-name="ES | M+ COMEDIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ COMEDIA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686334
+#EXTINF:-1 tvg-name="ES | M+ COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ COMEDIA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686333
+#EXTINF:-1 tvg-name="ES | M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ COMEDIA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686332
+#EXTINF:-1 tvg-name="ES | M+ DRAMA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ DRAMA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686331
+#EXTINF:-1 tvg-name="ES | M+ DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ DRAMA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686330
+#EXTINF:-1 tvg-name="ES | M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ DRAMA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686328
+#EXTINF:-1 tvg-name="ES | M+ DOCUMENTALES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ DOCUMENTALES FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686326
+#EXTINF:-1 tvg-name="ES | M+ DOCUMENTALES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ DOCUMENTALES HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686325
+#EXTINF:-1 tvg-name="ES | M+ DOCUMENTALES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ DOCUMENTALES SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686324
+#EXTINF:-1 tvg-name="ES | M+ INDIE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ INDIE FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686323
+#EXTINF:-1 tvg-name="ES | M+ INDIE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ INDIE HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686322
+#EXTINF:-1 tvg-name="ES | M+ INDIE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ INDIE SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686321
+#EXTINF:-1 tvg-name="ES | M+ ORIGINALES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ ORIGINALES SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686320
+#EXTINF:-1 tvg-name="ES | M+ ORIGINALES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ ORIGINALES HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686319
+#EXTINF:-1 tvg-name="ES | M+ ORIGINALES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ ORIGINALES FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686318
+#EXTINF:-1 tvg-name="ES | M+ CLASICOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ CLASICOS SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686317
+#EXTINF:-1 tvg-name="ES | M+ CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ CLASICOS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686316
+#EXTINF:-1 tvg-name="ES | M+ CLASICOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCLAS.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ CLASICOS FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686315
+#EXTINF:-1 tvg-name="ES | CINE ESPAÑOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | CINE ESPAÑOL HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686313
+#EXTINF:-1 tvg-name="ES | CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | CINE ESPAÑOL FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686312
+#EXTINF:-1 tvg-name="ES | M+  SERIES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+  SERIES SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686311
+#EXTINF:-1 tvg-name="ES | M+ SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ SERIES HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686310
+#EXTINF:-1 tvg-name="ES | M+  SERIES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+  SERIES FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686309
+#EXTINF:-1 tvg-name="ES | M+ SUSPENSE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MSUSP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ SUSPENSE SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686307
+#EXTINF:-1 tvg-name="ES M+ SUSPENSE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MSUSP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES M+ SUSPENSE HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686306
+#EXTINF:-1 tvg-name="ES | M+ SUSPENSE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MSUSP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ SUSPENSE FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686305
+#EXTINF:-1 tvg-name="ES | M+ TERROR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ TERROR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686304
+#EXTINF:-1 tvg-name="ES | M+ TERROR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ TERROR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686303
+#EXTINF:-1 tvg-name="ES | M+ PLUS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ PLUS SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686302
+#EXTINF:-1 tvg-name="ES | M+ PLUS HD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ PLUS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686301
+#EXTINF:-1 tvg-name="ES | M+ PLUS FHD" tvg-logo="s:1:/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WUg9gIHdLvJqZcOnhMXJJyA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ PLUS FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686300
+#EXTINF:-1 tvg-name="ES; M+ PLUS 2 SD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="▶️ ES | CINE-SERIES-portugal",ES; M+ PLUS 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686299
+#EXTINF:-1 tvg-name="ES | M+ PLUS 2 HD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ PLUS 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686298
+#EXTINF:-1 tvg-name="ES | M+ PLUS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | M+ PLUS 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686297
+#EXTINF:-1 tvg-name="ES | ALQUILER 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 1
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686296
+#EXTINF:-1 tvg-name="ES | ALQUILER 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 2
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686295
+#EXTINF:-1 tvg-name="ES | ALQUILER 3 [Spiral]" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 3 [Spiral]
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686294
+#EXTINF:-1 tvg-name="ES | ALQUILER 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 4
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686293
+#EXTINF:-1 tvg-name="ES | ALQUILER 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 5
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686292
+#EXTINF:-1 tvg-name="ES | ALQUILER 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 6
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686291
+#EXTINF:-1 tvg-name="ES | ALQUILER 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 7
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686290
+#EXTINF:-1 tvg-name="ES | ALQUILER 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 8
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686289
+#EXTINF:-1 tvg-name="ES | ALQUILER 9 [El Gato con Botas]" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 9 [El Gato con Botas]
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686288
+#EXTINF:-1 tvg-name="ES | ALQUILER 10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ALQUILER 10
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686287
+#EXTINF:-1 tvg-name="ES | SELEKT FHD" tvg-logo="https://selekt.in/img/selekt_black.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | SELEKT FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686286
+#EXTINF:-1 tvg-name="ES | AXN MOVIE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AXN MOVIE SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686285
+#EXTINF:-1 tvg-name="ES | AXN MOVIE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AXN MOVIE HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686284
+#EXTINF:-1 tvg-name="ES | AXN MOVIES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AXN MOVIES FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686283
+#EXTINF:-1 tvg-name="ES | AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AXN SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686282
+#EXTINF:-1 tvg-name="ES | AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AXN HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686281
+#EXTINF:-1 tvg-name="ES | AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AXN FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686280
+#EXTINF:-1 tvg-name="ES | CALLE 13 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | CALLE 13 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686278
+#EXTINF:-1 tvg-name="ES | CALLE 13 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | CALLE 13 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686277
+#EXTINF:-1 tvg-name="ES | CALLE 13 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | CALLE 13 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686276
+#EXTINF:-1 tvg-name="ES | WARNER TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | WARNER TV SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686275
+#EXTINF:-1 tvg-name="ES | WARNER TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | WARNER TV HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686274
+#EXTINF:-1 tvg-name="ES | WARNER TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | WARNER TV FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686273
+#EXTINF:-1 tvg-name="ES | TCM SD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | TCM SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686271
+#EXTINF:-1 tvg-name="ES | TCM HD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | TCM HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686270
+#EXTINF:-1 tvg-name="ES | TCM FHD" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | TCM FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686269
+#EXTINF:-1 tvg-name="ES | FOX SD" tvg-logo="http://media.c-x-c.media/picons/PT/foxhd.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | FOX SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686267
+#EXTINF:-1 tvg-name="ES | FOX HD" tvg-logo="http://media.c-x-c.media/picons/PT/foxhd.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | FOX HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686266
+#EXTINF:-1 tvg-name="ES | FOX FHD" tvg-logo="http://media.c-x-c.media/picons/PT/foxhd.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | FOX FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686265
+#EXTINF:-1 tvg-name="ES | HOLLYWOOD SD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | HOLLYWOOD SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686263
+#EXTINF:-1 tvg-name="ES | HOLLYWOOD HD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | HOLLYWOOD HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686262
+#EXTINF:-1 tvg-name="ES | HOLLYWOOD FHD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | HOLLYWOOD FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686261
+#EXTINF:-1 tvg-name="ES | DREAMWORKS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DREAMWORKS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686259
+#EXTINF:-1 tvg-name="ES | DREAMWORKS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DREAMWORKS FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686258
+#EXTINF:-1 tvg-name="ES | DREAMWORKS FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DREAMWORKS FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686257
+#EXTINF:-1 tvg-name="ES | BOM CINE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BOM CINE HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686256
+#EXTINF:-1 tvg-name="ES | BOM CINE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOMCIN.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BOM CINE FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686255
+#EXTINF:-1 tvg-name="ES | COSMO SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | COSMO SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686254
+#EXTINF:-1 tvg-name="ES | COSMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | COSMOS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686253
+#EXTINF:-1 tvg-name="ES | COSMO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | COSMO FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686252
+#EXTINF:-1 tvg-name="ES | SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | SYFY SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686250
+#EXTINF:-1 tvg-name="ES | SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | SYFY HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686249
+#EXTINF:-1 tvg-name="ES | SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | SYFY FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686248
+#EXTINF:-1 tvg-name="ES | AMC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AMC SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686246
+#EXTINF:-1 tvg-name="ES | AMC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AMC FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686245
+#EXTINF:-1 tvg-name="ES | AMC BREAK SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AMC BREAK SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686244
+#EXTINF:-1 tvg-name="ES | AMC BREAK HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AMC BREAK HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686243
+#EXTINF:-1 tvg-name="ES | AMC BREAK FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AMC BREAK FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686242
+#EXTINF:-1 tvg-name="ES | AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AMC CRIME SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686241
+#EXTINF:-1 tvg-name="ES | AMC CRIME FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | AMC CRIME FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686240
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES | DARK SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DARK SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686239
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES | DARK HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DARK HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686238
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES | DARK FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DARK FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686237
+#EXTINF:-1 tvg-name="ES | DARK RED  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | DARK RED  FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686236
+#EXTINF:-1 tvg-name="ES | SOMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | SOMOS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686235
+#EXTINF:-1 tvg-name="ES | XTRM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | XTRM HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686234
+#EXTINF:-1 tvg-name="ES | XTRM FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | XTRM FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686233
+#EXTINF:-1 tvg-name="ES | COMEDY CENTRAL SD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-comedia.jpg" group-title="▶️ ES | CINE-SERIES-portugal",ES | COMEDY CENTRAL SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686232
+#EXTINF:-1 tvg-name="ES | COMEDY CENTRAL HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-comedia.jpg" group-title="▶️ ES | CINE-SERIES-portugal",ES | COMEDY CENTRAL HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686231
+#EXTINF:-1 tvg-name="ES | COMEDY CENTRAL FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-comedia.jpg" group-title="▶️ ES | CINE-SERIES-portugal",ES | COMEDY CENTRAL FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686230
+#EXTINF:-1 tvg-name="ES | COMEDIA CENTRAL FHD 1080p" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-comedia.jpg" group-title="▶️ ES | CINE-SERIES-portugal",ES | COMEDIA CENTRAL FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686229
+#EXTINF:-1 tvg-name="ES | TRECE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/1280px-Trece.svg.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | TRECE FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686228
+#EXTINF:-1 tvg-name="ES | CALLE 13 FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | CALLE 13 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686227
+#EXTINF:-1 tvg-name="ES | GRAN HERMANO VIP 24/7" tvg-logo="s:1:/images/o8Ehe-5wjegc8SoNJb0JBEHSTgmTaN0hRoOdYOxcqdsiXMxI924zwNoW40Fw5BJFxYncZGRc55kql0Y6ra86BINUhjgdEOJ-BCk2duUIcpikKKoJCdFgMF_AMKyWFT4A.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | GRAN HERMANO VIP 24/7
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686226
+#EXTINF:-1 tvg-name="ES | RUNTIME Cine Y Series" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CINE_Y_SERIES_WHITE_176x122.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | RUNTIME Cine Y Series
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686225
+#EXTINF:-1 tvg-name="ES | RUN TIME CINE" group-title="▶️ ES | CINE-SERIES-portugal",ES | RUN TIME CINE
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686224
+#EXTINF:-1 tvg-name="ES | RUNTIME Series" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_SERIES_WHITE_176x122.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | RUNTIME Series
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686223
+#EXTINF:-1 tvg-name="ES | RAKUTEN COMEDIA HD" group-title="▶️ ES | CINE-SERIES-portugal",ES | RAKUTEN COMEDIA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686222
+#EXTINF:-1 tvg-name="RUN TIME COMEDIA HD" group-title="▶️ ES | CINE-SERIES-portugal",RUN TIME COMEDIA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686221
+#EXTINF:-1 tvg-name="ES | Rakuten Comedy Movies" group-title="▶️ ES | CINE-SERIES-portugal",ES | Rakuten Comedy Movies
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686220
+#EXTINF:-1 tvg-name="ES | RAKUTEN TOP PELIS" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | RAKUTEN TOP PELIS
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686219
+#EXTINF:-1 tvg-name="ES | Rakuten Action Movies" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | Rakuten Action Movies
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686218
+#EXTINF:-1 tvg-name="ES | RAKUTEN CINE Ñ" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | RAKUTEN CINE Ñ
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686217
+#EXTINF:-1 tvg-name="ES | RAKUTEN ROMANTICO HD" group-title="▶️ ES | CINE-SERIES-portugal",ES | RAKUTEN ROMANTICO HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686216
+#EXTINF:-1 tvg-name="ES | Rakuten Drama HD" group-title="▶️ ES | CINE-SERIES-portugal",ES | Rakuten Drama HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686215
+#EXTINF:-1 tvg-name="ES | RUN TIME TRASH HD" group-title="▶️ ES | CINE-SERIES-portugal",ES | RUN TIME TRASH HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686214
+#EXTINF:-1 tvg-name="ES | RUN TIME THRILLER HD" group-title="▶️ ES | CINE-SERIES-portugal",ES | RUN TIME THRILLER HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686213
+#EXTINF:-1 tvg-name="ES | RUN TIME CLASICCOS HD" group-title="▶️ ES | CINE-SERIES-portugal",ES | RUN TIME CLASICCOS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686212
+#EXTINF:-1 tvg-name="ES | Rakuten Family" group-title="▶️ ES | CINE-SERIES-portugal",ES | Rakuten Family
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686211
+#EXTINF:-1 tvg-name="ES | Goiena Eus" tvg-logo="https://i.imgur.com/eaLIJzK.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | Goiena Eus
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686210
+#EXTINF:-1 tvg-name="ES | Hamaika Telebista" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | Hamaika Telebista
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686209
+#EXTINF:-1 tvg-name="ES | STAR TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | STAR TVE HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686208
+#EXTINF:-1 tvg-name="ES | ESCAPE TV" tvg-logo="https://image.roku.com/developer_channels/prod/e69d61b3e3c60938dfb0e01c29076a536812c6ef99b8ed1faab2bc25e7aa3536.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | ESCAPE TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686207
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="▶️ ES | CINE-SERIES-portugal",Pluto TV Anime
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686206
+#EXTINF:-1 tvg-name="Pluto TV Animé Acción" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="▶️ ES | CINE-SERIES-portugal",Pluto TV Animé Acción
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686205
+#EXTINF:-1 tvg-name="ES | BBC DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC DRAMA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768649
+#EXTINF:-1 tvg-name="ES | BBC DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC DRAMA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768650
+#EXTINF:-1 tvg-name="ES | BBC TOP GEAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC TOP GEAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768651
+#EXTINF:-1 tvg-name="ES | BBC TOP GEAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC TOP GEAR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768652
+#EXTINF:-1 tvg-name="ES | BBC FOOD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC FOOD FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768653
+#EXTINF:-1 tvg-name="ES | BBC FOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC FOOD HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768654
+#EXTINF:-1 tvg-name="ES | BBC WORLD FHD" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC WORLD FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768655
+#EXTINF:-1 tvg-name="ES | BBC WORLD HD" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC WORLD HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768656
+#EXTINF:-1 tvg-name="ES | BBC HISTORY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" group-title="▶️ ES | CINE-SERIES-portugal",ES | BBC HISTORY FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/768657
+#EXTINF:-1 tvg-name="SP| ----- DEPORTES -----" tvg-logo="http://logo.sltv.site/logo/flag/spain.png" group-title="▶️ ES | DEPORTES-portugal",SP| ----- DEPORTES -----
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/178157
+#EXTINF:-1 tvg-name="ES | MULTIDEPORTES INFO" group-title="▶️ ES | DEPORTES-portugal",ES | MULTIDEPORTES INFO
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686624
+#EXTINF:-1 tvg-name="ES | M+ LALIGA TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA TV SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686622
+#EXTINF:-1 tvg-name="ES | M+ LALIGA  HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA  HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686621
+#EXTINF:-1 tvg-name="ES | M+ LALIGA UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA UHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686617
+#EXTINF:-1 tvg-name="ES | M+ LALIGA  FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA  FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686616
+#EXTINF:-1 tvg-name="ES | M+ LALIGA TV 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA TV 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686614
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686612
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686611
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 3
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686610
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 3 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686609
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 3 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686608
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 4 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686606
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 4 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686605
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 5 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686604
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 5 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686603
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 5 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686602
+#EXTINF:-1 tvg-name="ES | M+ LA LIGA 6 HD" tvg-logo="s:1:/images/45ac44ae089d9ac2dce6fed897c215aa.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LA LIGA 6 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686601
+#EXTINF:-1 tvg-name="ES | M+ LALIGA 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LALIGA 7 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686600
+#EXTINF:-1 tvg-name="ES | LALIGA BAR SD" tvg-logo="https://ver.clictv.es/RTEFacade/images/attachments/LaLigaTV-Bar.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA BAR SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686599
+#EXTINF:-1 tvg-name="ES | LALIGA BAR HD" tvg-logo="s:1:/images/pvCeJaf3ncx1lov72LMSdq1N9V4nkRSR8ulMSkP6XIWDDkm-TVo2GTu7kLkdqKQt9zJ832B8MNUIL4aWZ2n7Wc8eOkZca1cx4ChvsFSEt-o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA BAR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686598
+#EXTINF:-1 tvg-name="ES | LALIGA BAR FHD" tvg-logo="s:1:/images/pvCeJaf3ncx1lov72LMSdq1N9V4nkRSR8ulMSkP6XIWDDkm-TVo2GTu7kLkdqKQt9zJ832B8MNUIL4aWZ2n7Wc8eOkZca1cx4ChvsFSEt-o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686597
+#EXTINF:-1 tvg-name="ES | LALIGA BAR 2 HD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WUQQe4cMSvDXfMhN-W_rSiA.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA BAR 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686596
+#EXTINF:-1 tvg-name="ES | LALIGA BAR 2 FHD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WUQQe4cMSvDXfMhN-W_rSiA.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA BAR 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686595
+#EXTINF:-1 tvg-name="ES | LALIGA BAR 3 HD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WbCXBBze5YlpEGSXM1w263g.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA BAR 3 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686594
+#EXTINF:-1 tvg-name="ES | LALIGA BAR 3 FHD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WbCXBBze5YlpEGSXM1w263g.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA BAR 3 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686593
+#EXTINF:-1 tvg-name="ES | DAZN 1 BAR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN 1 BAR SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686592
+#EXTINF:-1 tvg-name="ES | DAZN 1 BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN 1 BAR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686591
+#EXTINF:-1 tvg-name="ES | DAZN 1 BAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN 1 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686590
+#EXTINF:-1 tvg-name="ES | DAZN 2 BAR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN 2 BAR SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686589
+#EXTINF:-1 tvg-name="ES | DAZN 2 BAR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN 2 BAR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686588
+#EXTINF:-1 tvg-name="ES | DAZN 2 BAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN 2 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686587
+#EXTINF:-1 tvg-name="ES | GOL PLAY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="▶️ ES | DEPORTES-portugal",ES | GOL PLAY SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686586
+#EXTINF:-1 tvg-name="ES | GOL PLAY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="▶️ ES | DEPORTES-portugal",ES | GOL PLAY HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686585
+#EXTINF:-1 tvg-name="ES | GOL PLAY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="▶️ ES | DEPORTES-portugal",ES | GOL PLAY FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686584
+#EXTINF:-1 tvg-name="ES | LALIGA PLUS FHD" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA PLUS FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686583
+#EXTINF:-1 tvg-name="ES | LALIGA PLUS HD" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA PLUS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686582
+#EXTINF:-1 tvg-name="ES | LALIGA PLUS SD" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA PLUS SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686581
+#EXTINF:-1 tvg-name="ES | LALIGA PLUS 2 FHD" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA PLUS 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686580
+#EXTINF:-1 tvg-name="ES | LALIGA PLUS 2 HD" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA PLUS 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686579
+#EXTINF:-1 tvg-name="ES | LALIGA PLUS 2 SD" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA PLUS 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686578
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA SD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686577
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA HD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686576
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA FHD  HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA FHD  HEVC
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686575
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686574
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA FHD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686573
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686572
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686571
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686570
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA 3 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA 3 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686569
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA 4 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686568
+#EXTINF:-1 tvg-name="ES | DAZN LALIGA 5 SD" tvg-logo="s:1:/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WT7Zcj53hPPkmyuiAEy66VA.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN LALIGA 5 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686567
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 1 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686566
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 1 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686565
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 1 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686564
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 2 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686563
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686562
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686560
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 3 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 3 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686559
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 3 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 3 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686558
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 4 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686556
+#EXTINF:-1 tvg-name="ES | DAZN MOVISTAR 4 FHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN MOVISTAR 4 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686555
+#EXTINF:-1 tvg-name="ES | DAZN 4 FHD 1080p" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN 4 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686554
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES SD (ORANGE)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES SD (ORANGE)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686553
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686552
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES HD (ORANGE)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES HD (ORANGE)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686551
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES FHD (ORANGE)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES FHD (ORANGE)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686550
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES FHD (SAT)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686549
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686548
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686547
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES FHD (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES FHD (H.265)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686545
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES FHD (HEVC)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES FHD (HEVC)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686544
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES UHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686543
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686542
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686541
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 2 BAR FHD" tvg-logo="https://ver.clictv.es/RTEFacade/images/attachments/MicrosoftTeams-image%20(29).png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 2 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686540
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686539
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 3 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686538
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 3 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686537
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 3 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686536
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 3 BAR FHD" tvg-logo="https://ver.clictv.es/RTEFacade/images/attachments/MicrosoftTeams-image%20(29).png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 3 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686535
+#EXTINF:-1 tvg-name="ES | M+LIGA DE CAMPEONES 3 FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+LIGA DE CAMPEONES 3 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686534
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 4 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686533
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 4 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686532
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 4 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686531
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 4 BAR FHD" tvg-logo="https://ver.clictv.es/RTEFacade/images/attachments/MicrosoftTeams-image%20(29).png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 4 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686530
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 5 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686529
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 5 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686528
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 5 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686527
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 5 BAR FHD" tvg-logo="https://ver.clictv.es/RTEFacade/images/attachments/MicrosoftTeams-image%20(29).png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 5 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686526
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 5 FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 5 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686525
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 6 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686524
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 6 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 6 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686523
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 7
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686522
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 8 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 8 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686521
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 9
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686520
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 10" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 10
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686519
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 11" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 11
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686518
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 12" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 12
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686517
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 13
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686516
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEOENS 14" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEOENS 14
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686515
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 14" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 14
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686514
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 15" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 15
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686513
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES 15" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES 15
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686512
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 16" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 16
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686511
+#EXTINF:-1 tvg-name="ES | M+ LIGA CAMPEONES 16" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA CAMPEONES 16
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686510
+#EXTINF:-1 tvg-name="ES | M+ LIGA DE CAMPEONES 17" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ LIGA DE CAMPEONES 17
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686509
+#EXTINF:-1 tvg-name="ES | M+LIGA DE CAMPEONES 2 HD (ORANGE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+LIGA DE CAMPEONES 2 HD (ORANGE)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686508
+#EXTINF:-1 tvg-name="ES | COPA DEL REY M+ FHD" group-title="▶️ ES | DEPORTES-portugal",ES | COPA DEL REY M+ FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686507
+#EXTINF:-1 tvg-name="ES | COPA DEL REY M+ HD" group-title="▶️ ES | DEPORTES-portugal",ES | COPA DEL REY M+ HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686506
+#EXTINF:-1 tvg-name="ES | LA LIGA TV HYPERMOTION  SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA TV HYPERMOTION  SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686504
+#EXTINF:-1 tvg-name="ES | LA LIGA TV HYPERMOTION  HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA TV HYPERMOTION  HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686503
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION HD" tvg-logo="https://images2.imgbox.com/28/c9/YcP2QFqG_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686502
+#EXTINF:-1 tvg-name="ES | LA LIGA TV HYPERMOTION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA TV HYPERMOTION FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686501
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION FHD" tvg-logo="https://images2.imgbox.com/28/c9/YcP2QFqG_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686500
+#EXTINF:-1 tvg-name="ES | LA LIGA TV HYPERMOTION FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA TV HYPERMOTION FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686499
+#EXTINF:-1 tvg-name="ES | LALIGA HYPERMOTION TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA HYPERMOTION TV FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686498
+#EXTINF:-1 tvg-name="ES | LA LIGA TV HYPERMOTION M2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA TV HYPERMOTION M2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686497
+#EXTINF:-1 tvg-name="ES | LA LIGA TV HYPERMOTION M2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA TV HYPERMOTION M2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686496
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION 2 FHD" tvg-logo="s:1:/images/z_hDjAnw98TyytvGkDE54AYyw-y8IJ0Cu8Mgot2nBzJaw8FbpSi3swH9sg0VQQCv.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686495
+#EXTINF:-1 tvg-name="ES | LA LIGA HYPERMOTION M2 FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA HYPERMOTION M2 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686494
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION M2 FHD  (OP1)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION M2 FHD  (OP1)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686493
+#EXTINF:-1 tvg-name="ES | LA LIGA TV HYPERMOTION M3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA TV HYPERMOTION M3 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686492
+#EXTINF:-1 tvg-name="ES | LIGA TV HYPERMOTION M3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="▶️ ES | DEPORTES-portugal",ES | LIGA TV HYPERMOTION M3 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686491
+#EXTINF:-1 tvg-name="ES | LA LIGA TV HYPERMOTION M3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="▶️ ES | DEPORTES-portugal",ES | LA LIGA TV HYPERMOTION M3 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686490
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION BAR" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION BAR
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686489
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION BAR HD" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION BAR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686488
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION BAR FHD" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686487
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION 2 BAR" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION 2 BAR
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686486
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION 2 BAR HD" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION 2 BAR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686485
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION 2 BAR FHD" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION 2 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686484
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION 3 BAR" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION 3 BAR
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686483
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION 3 BAR HD" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION 3 BAR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686482
+#EXTINF:-1 tvg-name="ES | LALIGA TV HYPERMOTION 3 BAR FHD" group-title="▶️ ES | DEPORTES-portugal",ES | LALIGA TV HYPERMOTION 3 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686481
+#EXTINF:-1 tvg-name="ES | M+ VAMOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1024px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ VAMOS SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686480
+#EXTINF:-1 tvg-name="ES | M+ VAMOS HD" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ VAMOS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686479
+#EXTINF:-1 tvg-name="ES | M+ VAMOS FHD" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ VAMOS FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686478
+#EXTINF:-1 tvg-name="ES | M+ VAMOS FHD 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1024px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ VAMOS FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686477
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686476
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686475
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686474
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES FHD (SAT)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686473
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686472
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686471
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 2 FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 2 FHD (SAT)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686470
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 3 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686469
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 3 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686468
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 3 FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 3 FHD (SAT)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686467
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 4 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686466
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 4 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686465
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 4 FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 4 FHD (SAT)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686464
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 5 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686463
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 5 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686462
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 5 FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 5 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686461
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 6 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686460
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 7
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686459
+#EXTINF:-1 tvg-name="ES | M+ DEPORTES 8" group-title="▶️ ES | DEPORTES-portugal",ES | M+ DEPORTES 8
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686458
+#EXTINF:-1 tvg-name="ES | LIGA SPORTS TV FHD" group-title="▶️ ES | DEPORTES-portugal",ES | LIGA SPORTS TV FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686457
+#EXTINF:-1 tvg-name="ES | LIGA + INSIDE  FHD" group-title="▶️ ES | DEPORTES-portugal",ES | LIGA + INSIDE  FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686456
+#EXTINF:-1 tvg-name="ES | #ELLAS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="▶️ ES | DEPORTES-portugal",ES | #ELLAS SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686455
+#EXTINF:-1 tvg-name="ES | #ELLAS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="▶️ ES | DEPORTES-portugal",ES | #ELLAS HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686454
+#EXTINF:-1 tvg-name="ES | #ELLAS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="▶️ ES | DEPORTES-portugal",ES | #ELLAS FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686453
+#EXTINF:-1 tvg-name="ES | #ELLAS FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="▶️ ES | DEPORTES-portugal",ES | #ELLAS FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686452
+#EXTINF:-1 tvg-name="ES | M+ GOLF SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ GOLF SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686451
+#EXTINF:-1 tvg-name="ES | M+ GOLF HD" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ GOLF HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686450
+#EXTINF:-1 tvg-name="ES | M+ GOLF FHD" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ GOLF FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686449
+#EXTINF:-1 tvg-name="ES | M+  GOLF FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+  GOLF FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686448
+#EXTINF:-1 tvg-name="ES | M+  GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+  GOLF 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686447
+#EXTINF:-1 tvg-name="ES | M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ GOLF 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686446
+#EXTINF:-1 tvg-name="ES | M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="▶️ ES | DEPORTES-portugal",ES | M+ GOLF 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686445
+#EXTINF:-1 tvg-name="ES | DAZN F1 SD" tvg-logo="https://i.imgur.com/iTTOjQz.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN F1 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686444
+#EXTINF:-1 tvg-name="ES | DAZN F1 HD" tvg-logo="https://i.imgur.com/iTTOjQz.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN F1 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686443
+#EXTINF:-1 tvg-name="ES | DAZN FORMULA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN FORMULA 1 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686442
+#EXTINF:-1 tvg-name="ES | DAZN F1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN F1 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686441
+#EXTINF:-1 tvg-name="ES | DAZN F1 BAR FHD" tvg-logo="https://i.imgur.com/iTTOjQz.png" group-title="▶️ ES | DEPORTES-portugal",ES | DAZN F1 BAR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686440
+#EXTINF:-1 tvg-name="ES | DANZ F1 UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MF1UHD.png" group-title="▶️ ES | DEPORTES-portugal",ES | DANZ F1 UHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686439
+#EXTINF:-1 tvg-name="DAZN PREMIER 1 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 1 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686437
+#EXTINF:-1 tvg-name="DAZN PREMIER 2 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686436
+#EXTINF:-1 tvg-name="DAZN PREMIER 3 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 3 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686435
+#EXTINF:-1 tvg-name="DAZN PREMIER 4 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 4 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686434
+#EXTINF:-1 tvg-name="DAZN PREMIER 5 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 5 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686433
+#EXTINF:-1 tvg-name="DAZN PREMIER 6 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 6 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686432
+#EXTINF:-1 tvg-name="DAZN PREMIER 7 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 7 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686431
+#EXTINF:-1 tvg-name="DAZN PREMIER 8 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 8 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686430
+#EXTINF:-1 tvg-name="DAZN PREMIER 9 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 9 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686429
+#EXTINF:-1 tvg-name="DAZN PREMIER 10 FHD" tvg-logo="https://1.bp.blogspot.com/-qC4c_psdbfg/WPEES-RMzoI/AAAAAAAAAwA/4xLSPYvAgoE56iM92junl98KRa8aPuKGgCLcB/s1600/Premier%2BLeague%2BLogo.png" group-title="▶️ ES | DEPORTES-portugal",DAZN PREMIER 10 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686428
+#EXTINF:-1 tvg-name="LIGA SPORTS tv 12" group-title="▶️ ES | DEPORTES-portugal",LIGA SPORTS tv 12
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686427
+#EXTINF:-1 tvg-name="ES | EUROSPORT 1 SD" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="▶️ ES | DEPORTES-portugal",ES | EUROSPORT 1 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686426
+#EXTINF:-1 tvg-name="ES | EUROSPORT 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="▶️ ES | DEPORTES-portugal",ES | EUROSPORT 1 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686425
+#EXTINF:-1 tvg-name="ES | EUROSPORT FHD" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="▶️ ES | DEPORTES-portugal",ES | EUROSPORT FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686424
+#EXTINF:-1 tvg-name="ES | EUROSPORT 1 FHD 1080p" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="▶️ ES | DEPORTES-portugal",ES | EUROSPORT 1 FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686422
+#EXTINF:-1 tvg-name="ES | EUROSPORT 2 SD" tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="▶️ ES | DEPORTES-portugal",ES | EUROSPORT 2 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686421
+#EXTINF:-1 tvg-name="ES | EUROSPORT 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | EUROSPORT 2 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686420
+#EXTINF:-1 tvg-name="ES | EUROSPORT 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="▶️ ES | DEPORTES-portugal",ES | EUROSPORT 2 FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686419
+#EXTINF:-1 tvg-name="PT | EUROSPORT 4K" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/sammos/ESP4K.png" group-title="▶️ ES | DEPORTES-portugal",PT | EUROSPORT 4K
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686418
+#EXTINF:-1 tvg-name="ES | TELEDEPORTES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/320px-Tve_teledeporte.png" group-title="▶️ ES | DEPORTES-portugal",ES | TELEDEPORTES SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686417
+#EXTINF:-1 tvg-name="ES | TELEDEPORTES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/320px-Tve_teledeporte.png" group-title="▶️ ES | DEPORTES-portugal",ES | TELEDEPORTES HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686416
+#EXTINF:-1 tvg-name="ES | TELEDEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/320px-Tve_teledeporte.png" group-title="▶️ ES | DEPORTES-portugal",ES | TELEDEPORTES FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686415
+#EXTINF:-1 tvg-name="ES | TELEDEPORTE FHD 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/320px-Tve_teledeporte.png" group-title="▶️ ES | DEPORTES-portugal",ES | TELEDEPORTE FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686414
+#EXTINF:-1 tvg-name="ES | REAL MADRID TV HD" tvg-logo="http://bm-7-arephmhhbsb5brbb.z01.azurefd.net:80/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="▶️ ES | DEPORTES-portugal",ES | REAL MADRID TV HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686413
+#EXTINF:-1 tvg-name="ES | REAL MADRID FHD" group-title="▶️ ES | DEPORTES-portugal",ES | REAL MADRID FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686412
+#EXTINF:-1 tvg-name="ES | SEVILLA FC TV" tvg-logo="http://de.live-tv-channels.net/pt-data/uploads/logo/sevilla_fc_tv_es.png" group-title="▶️ ES | DEPORTES-portugal",ES | SEVILLA FC TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686411
+#EXTINF:-1 tvg-name="ES | ESPORT 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" group-title="▶️ ES | DEPORTES-portugal",ES | ESPORT 3
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686410
+#EXTINF:-1 tvg-name="ES | BETIS TV" tvg-logo="https://iteleflix.com/archivos/Logo-Betis-TV.png" group-title="▶️ ES | DEPORTES-portugal",ES | BETIS TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686409
+#EXTINF:-1 tvg-name="ES | NAUTICAL HD" tvg-logo="https://w7.pngwing.com/pngs/14/981/png-transparent-television-channel-nautical-channel-logo-pay-television-others-miscellaneous-television-text.png" group-title="▶️ ES | DEPORTES-portugal",ES | NAUTICAL HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686408
+#EXTINF:-1 tvg-name="ES | SURF CHANNEL HD" group-title="▶️ ES | DEPORTES-portugal",ES | SURF CHANNEL HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686407
+#EXTINF:-1 tvg-name="ES | ESCAPE TV FHD" tvg-logo="https://image.roku.com/developer_channels/prod/e69d61b3e3c60938dfb0e01c29076a536812c6ef99b8ed1faab2bc25e7aa3536.png" group-title="▶️ ES | DEPORTES-portugal",ES | ESCAPE TV FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686406
+#EXTINF:-1 tvg-name="ES | DBIKE HD" tvg-logo="https://dbikechannel.es/wp-content/uploads/2022/09/logodbike2020.png" group-title="▶️ ES | DEPORTES-portugal",ES | DBIKE HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686405
+#EXTINF:-1 tvg-name="EDGE SPORTS" group-title="▶️ ES | DEPORTES-portugal",EDGE SPORTS
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686404
+#EXTINF:-1 tvg-name="USGATV" group-title="▶️ ES | DEPORTES-portugal",USGATV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686403
+#EXTINF:-1 tvg-name="PAC-12 INSIDER" group-title="▶️ ES | DEPORTES-portugal",PAC-12 INSIDER
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686402
+#EXTINF:-1 tvg-name="SKI TV" group-title="▶️ ES | DEPORTES-portugal",SKI TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686401
+#EXTINF:-1 tvg-name="ES | MotoR SPORTS" group-title="▶️ ES | DEPORTES-portugal",ES | MotoR SPORTS
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686400
+#EXTINF:-1 tvg-name="TENIS CHANNEL" group-title="▶️ ES | DEPORTES-portugal",TENIS CHANNEL
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686399
+#EXTINF:-1 tvg-name="MY PADEL TV" group-title="▶️ ES | DEPORTES-portugal",MY PADEL TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686398
+#EXTINF:-1 tvg-name="ES | SKY SHOWTIME|1 (HD)" tvg-logo="https://cdn.gogeticon.net/files/2957531/342ddb2069df11843505c457207430ab.png" group-title="▶️ ES | DEPORTES-portugal",ES | SKY SHOWTIME|1 (HD)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686397
+#EXTINF:-1 tvg-name="ES | SKY SHOWTIME|1 (FHD)" tvg-logo="https://cdn.gogeticon.net/files/2957531/342ddb2069df11843505c457207430ab.png" group-title="▶️ ES | DEPORTES-portugal",ES | SKY SHOWTIME|1 (FHD)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686396
+#EXTINF:-1 tvg-name="ES | MY PADEL TV HD" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/MyPadelTV_1000x1000_Circle.png?$296_164_PNG" group-title="▶️ ES | DEPORTES-portugal",ES | MY PADEL TV HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686395
+#EXTINF:-1 tvg-name="RALLY TV" group-title="▶️ ES | DEPORTES-portugal",RALLY TV
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686394
+#EXTINF:-1 tvg-name="ES | REKTV GAMER FHD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=464dcb&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Frektvgamer.png" group-title="▶️ ES | DEPORTES-portugal",ES | REKTV GAMER FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686393
+#EXTINF:-1 tvg-name="ES | DIREC TV SPORT ES | MotoR HD" tvg-logo="s:1:/images/4b324beb3af0c9fe86ad507ce7dd32e6.jpg" group-title="▶️ ES | DEPORTES-portugal",ES | DIREC TV SPORT ES | MotoR HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686392
+#EXTINF:-1 tvg-name="ES | ES | Moto ADV FHD" tvg-logo="https://dotdesignstudio.com.au/wp-content/uploads/2022/08/ES | Moto-ADV-on-Black-scaled-e1662096218548.jpg" group-title="▶️ ES | DEPORTES-portugal",ES | ES | Moto ADV FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686391
+#EXTINF:-1 tvg-name="ES | SUPER 3 HD" group-title="▶️ ES | DEPORTES-portugal",ES | SUPER 3 HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686390
+#EXTINF:-1 tvg-name="ES | Vivamóvil" tvg-logo="https://i.imgur.com/QQviU5m.png" group-title="▶️ ES | DEPORTES-portugal",ES | Vivamóvil
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686389
+#EXTINF:-1 tvg-name="Formula 1 TESTS" tvg-logo="https://iili.io/HMINpPS.png" group-title="▶️ ES | DEPORTES-portugal",Formula 1 TESTS
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686388
+#EXTINF:-1 tvg-name="Formula 1 Clasificacion" tvg-logo="https://iili.io/HMINpPS.png" group-title="▶️ ES | DEPORTES-portugal",Formula 1 Clasificacion
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686387
+#EXTINF:-1 tvg-name="Formula 1 Carrera" tvg-logo="https://iili.io/HMINpPS.png" group-title="▶️ ES | DEPORTES-portugal",Formula 1 Carrera
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686386
+#EXTINF:-1 tvg-name="ES | Moto GP Clasificacion" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="▶️ ES | DEPORTES-portugal",ES | Moto GP Clasificacion
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686385
+#EXTINF:-1 tvg-name="ES | Moto GP Carrera" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="▶️ ES | DEPORTES-portugal",ES | Moto GP Carrera
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686384
+#EXTINF:-1 tvg-name="ES | Moto GP Tests." tvg-logo="https://iili.io/HOGh9Ns.png" group-title="▶️ ES | DEPORTES-portugal",ES | Moto GP Tests.
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686383
+#EXTINF:-1 tvg-name="ES | Moto2 y 3 Tests" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="▶️ ES | DEPORTES-portugal",ES | Moto2 y 3 Tests
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686382
+#EXTINF:-1 tvg-name="ES | Moto2 y 3 Clasificación" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="▶️ ES | DEPORTES-portugal",ES | Moto2 y 3 Clasificación
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686381
+#EXTINF:-1 tvg-name="ES | Moto2 y 3 Carrera" tvg-logo="https://iili.io/HOGh9Ns.png" group-title="▶️ ES | DEPORTES-portugal",ES | Moto2 y 3 Carrera
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686380
+#EXTINF:-1 tvg-name="Superbikes Tests" tvg-logo="https://iili.io/HviorQt.png" group-title="▶️ ES | DEPORTES-portugal",Superbikes Tests
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686379
+#EXTINF:-1 tvg-name="Superbikes Clasificación" tvg-logo="https://iili.io/HviorQt.png" group-title="▶️ ES | DEPORTES-portugal",Superbikes Clasificación
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686378
+#EXTINF:-1 tvg-name="Superbikes Carrera" tvg-logo="https://iili.io/HviorQt.png" group-title="▶️ ES | DEPORTES-portugal",Superbikes Carrera
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686377
+#EXTINF:-1 tvg-name="ES | ONE TORO  SD" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="▶️ ES | DEPORTES-portugal",ES | ONE TORO  SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686682
+#EXTINF:-1 tvg-name="ES | ONE TORO FHD " tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="▶️ ES | DEPORTES-portugal",ES | ONE TORO FHD 
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686681
+#EXTINF:-1 tvg-name="ES | ONE TORO HD" tvg-logo="https://onetoro.tv/assets-new/images/mundotoro-streaming-logo1.png" group-title="▶️ ES | DEPORTES-portugal",ES | ONE TORO HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686680
+#EXTINF:-1 tvg-name="LIGA SPORT TV 16" group-title="▶️ ES | DEPORTES-portugal",LIGA SPORT TV 16
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767784
+#EXTINF:-1 tvg-name="LIGA SPORT TV 17" group-title="▶️ ES | DEPORTES-portugal",LIGA SPORT TV 17
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767785
+#EXTINF:-1 tvg-name="LIGA SPORT TV 18" group-title="▶️ ES | DEPORTES-portugal",LIGA SPORT TV 18
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767786
+#EXTINF:-1 tvg-name="LIGA SPORT TV 19" group-title="▶️ ES | DEPORTES-portugal",LIGA SPORT TV 19
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767787
+#EXTINF:-1 tvg-name="2ª RFEF TV (EVENTO 1)" group-title="▶️ ES | DEPORTES-portugal",2ª RFEF TV (EVENTO 1)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767789
+#EXTINF:-1 tvg-name="2ª RFEF TV (EVENTO 2)" group-title="▶️ ES | DEPORTES-portugal",2ª RFEF TV (EVENTO 2)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767790
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 3)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 3)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767791
+#EXTINF:-1 tvg-name="2º REFEF TV (EVENTO 4)" group-title="▶️ ES | DEPORTES-portugal",2º REFEF TV (EVENTO 4)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767792
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 5)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 5)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767793
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 6)." group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 6).
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767794
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 7)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 7)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767795
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 8)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 8)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767796
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 9)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 9)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767797
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 10)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 10)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767798
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 11)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 11)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767799
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 12)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 12)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767800
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 13)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 13)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767801
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 14)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 14)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767802
+#EXTINF:-1 tvg-name="2º RFEF TV (EVENTO 15)" group-title="▶️ ES | DEPORTES-portugal",2º RFEF TV (EVENTO 15)
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767803
+#EXTINF:-1 tvg-name="ES | LaLiga Event 1" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 1
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608416
+#EXTINF:-1 tvg-name="ES | LaLiga Event 2" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 2
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608415
+#EXTINF:-1 tvg-name="ES | LaLiga Event 3" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 3
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608414
+#EXTINF:-1 tvg-name="ES | LaLiga Event 4" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 4
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608413
+#EXTINF:-1 tvg-name="ES | LaLiga Event 5" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 5
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608412
+#EXTINF:-1 tvg-name="ES | LaLiga Event 6" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 6
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608411
+#EXTINF:-1 tvg-name="ES | LaLiga Event 7" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 7
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608410
+#EXTINF:-1 tvg-name="ES | LaLiga Event 8" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 8
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608409
+#EXTINF:-1 tvg-name="ES | LaLiga Event 9" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 9
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608408
+#EXTINF:-1 tvg-name="ES | LaLiga Event 10" tvg-logo="https://img2.sport-tv-guide.live/images/leagues/league2.png" group-title="▶️ ES | LALIGA LIVE-portugal",ES | LaLiga Event 10
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/608407
+#EXTINF:-1 tvg-name="LaLiga Sports TV 1" tvg-logo="http://kongking.shop:80/images/pNfXYfgn2LE4VDSHMy7wij28Q0VKIJbvPudrfW7QWzkC05Mvkz-iXqwudrl5nZw7bb-sZ8sXKukT8-Ph4h3nBw.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 1
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767769
+#EXTINF:-1 tvg-name="LaLiga Sports TV 2" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400_1.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 2
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767770
+#EXTINF:-1 tvg-name="LaLiga Sports TV 3" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 3
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767771
+#EXTINF:-1 tvg-name="LaLiga Sports TV 4" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-2.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 4
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767772
+#EXTINF:-1 tvg-name="LaLiga Sports TV 5" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-copia.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 5
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767773
+#EXTINF:-1 tvg-name="LaLiga Sports TV 6" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-1-copia_1.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 6
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767774
+#EXTINF:-1 tvg-name="LaLiga Sports TV 7" tvg-logo="http://kongking.shop:80/images/pNfXYfgn2LE4VDSHMy7wij28Q0VKIJbvPudrfW7QWznIa1riSdSd14bVFSAic7_r0z37So89n_1DdNk7j0Zqhg.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 7
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767775
+#EXTINF:-1 tvg-name="LaLiga Sports TV 8" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-3.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 8
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767776
+#EXTINF:-1 tvg-name="LaLiga Sports TV 9" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-4.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 9
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767777
+#EXTINF:-1 tvg-name="LaLiga Sports TV 10" tvg-logo="http://kongking.shop:80/images/pNfXYfgn2LE4VDSHMy7wij28Q0VKIJbvPudrfW7QWzmr1bIDvA_O31F4kkbcMRN_aQvVnHy2kb7Ifb90Yn4QXw.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 10
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767778
+#EXTINF:-1 tvg-name="LaLiga Sports TV 11" tvg-logo="http://kongking.shop:80/images/pNfXYfgn2LE4VDSHMy7wij28Q0VKIJbvPudrfW7QWzlrCX6kcLYnK2AQjd1uEBAkQpnnJN79jYcx5oYH3T33NA.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 11
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767779
+#EXTINF:-1 tvg-name="LaLiga Sports TV 12" tvg-logo="https://www.linkpicture.com/q/zV-c0Wuq_400x400-7.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 12
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767780
+#EXTINF:-1 tvg-name="LaLiga Sports TV 13" tvg-logo="https://www.linkpicture.com/q/13_45.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 13
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767781
+#EXTINF:-1 tvg-name="LaLiga Sports TV 14" tvg-logo="http://kongking.shop:80/images/pNfXYfgn2LE4VDSHMy7wisuktzwa3SKShwr6HEIbUEt3xt2baADwbGHyva2v94Av.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 14
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767782
+#EXTINF:-1 tvg-name="LaLiga Sports TV 15" tvg-logo="http://kongking.shop:80/images/pNfXYfgn2LE4VDSHMy7wiiw_4pMvZSac_LwJ-wUXR-ez4tydCQQwl0tl1sXkH0Fl.png" group-title="▶️ ES | LALIGA LIVE-portugal",LaLiga Sports TV 15
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767783
+#EXTINF:-1 tvg-name="LALIGA SPORT TV 20" group-title="▶️ ES | LALIGA LIVE-portugal",LALIGA SPORT TV 20
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/767788
+#EXTINF:-1 tvg-name="SP| ------ DOCUMENTALES ------" tvg-logo="http://logo.sltv.site/logo/flag/spain.png" group-title="▶️ ES | DOCUMENTALES-portugal",SP| ------ DOCUMENTALES ------
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/178158
+#EXTINF:-1 tvg-name="ES | FACTORIA DE FICCION HD" group-title="▶️ ES | DOCUMENTALES-portugal",ES | FACTORIA DE FICCION HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/727389
+#EXTINF:-1 tvg-name="ES | CRIME INVESTIGATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/2560px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CRIME INVESTIGATION HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/727388
+#EXTINF:-1 tvg-name="ES | UBEAT HD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/11/U-Beat.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | UBEAT HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686712
+#EXTINF:-1 tvg-name="ES | UBEAT FHD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/11/U-Beat.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | UBEAT FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686711
+#EXTINF:-1 tvg-name="ES | CANAL COCINA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CANAL COCINA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686710
+#EXTINF:-1 tvg-name="ES | CANAL COCINA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CANAL COCINA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686709
+#EXTINF:-1 tvg-name="ES | CANAL COCINA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CANAL COCINA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686708
+#EXTINF:-1 tvg-name="ES | CANAL COCINA 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CANAL COCINA 4K
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686706
+#EXTINF:-1 tvg-name="ES | CANAL DECASA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CANAL DECASA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686705
+#EXTINF:-1 tvg-name="ES | CANAL DECASA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CANAL DECASA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686704
+#EXTINF:-1 tvg-name="ES | CANAL DECASA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CANAL DECASA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686703
+#EXTINF:-1 tvg-name="ES | HISTORIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | HISTORIA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686702
+#EXTINF:-1 tvg-name="ES | HISTORIA HD" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXEbGT6qSYwxMeV-syc5mvt4eVBXpCVXqAj0VCbMdFeGU_h2PRYO_65Jg3xFuphFAQ.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | HISTORIA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686701
+#EXTINF:-1 tvg-name="ES | HISTORIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | HISTORIA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686700
+#EXTINF:-1 tvg-name="ES | NATIONAL GEOGRAPHIC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | NATIONAL GEOGRAPHIC SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686698
+#EXTINF:-1 tvg-name="ES | NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | NATIONAL GEOGRAPHIC HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686697
+#EXTINF:-1 tvg-name="ES | NATIONAL GEOGRAPHIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | NATIONAL GEOGRAPHIC FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686696
+#EXTINF:-1 tvg-name="ES | NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | NATIONAL GEOGRAPHIC WILD SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686695
+#EXTINF:-1 tvg-name="ES |NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES |NATIONAL GEOGRAPHIC WILD HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686694
+#EXTINF:-1 tvg-name="ES | NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | NATIONAL GEOGRAPHIC WILD FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686693
+#EXTINF:-1 tvg-name="ES | DISCOVERY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | DISCOVERY CHANNEL SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686690
+#EXTINF:-1 tvg-name="ES | DISCOVERY CHANNEL  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.pn" group-title="▶️ ES | DOCUMENTALES-portugal",ES | DISCOVERY CHANNEL  HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686689
+#EXTINF:-1 tvg-name="ES | DISCOVERY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.pn" group-title="▶️ ES | DOCUMENTALES-portugal",ES | DISCOVERY CHANNEL FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686688
+#EXTINF:-1 tvg-name="ES | PARAMOUNT CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | PARAMOUNT CHANNEL SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686687
+#EXTINF:-1 tvg-name="ES | PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | PARAMOUNT CHANNEL
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686686
+#EXTINF:-1 tvg-name="ES | ODISEA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | ODISEA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686685
+#EXTINF:-1 tvg-name="ES | ODISEA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | ODISEA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686684
+#EXTINF:-1 tvg-name="ES | ODISEA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | ODISEA 4K
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686683
+#EXTINF:-1 tvg-name="ES | EL TORO T.V. HD" group-title="▶️ ES | DOCUMENTALES-portugal",ES | EL TORO T.V. HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686677
+#EXTINF:-1 tvg-name="ES | TOROLÉ T.V." tvg-logo="https://api.myclub.tv//images/5727.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | TOROLÉ T.V.
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686676
+#EXTINF:-1 tvg-name="ES | TOROLE FHD" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | TOROLE FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686675
+#EXTINF:-1 tvg-name="ES | IBERALIA 100% PESCA SD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA 100% PESCA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686674
+#EXTINF:-1 tvg-name="ES | IBERALIA 100% PESCA HD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA 100% PESCA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686673
+#EXTINF:-1 tvg-name="ES | IBERALIA 100% PESCA FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA 100% PESCA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686672
+#EXTINF:-1 tvg-name="ES | IBERALIA 100% PESCA FHD 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA 100% PESCA FHD 1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686671
+#EXTINF:-1 tvg-name="ES | IBERALIA 100% CAZA SD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA 100% CAZA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686670
+#EXTINF:-1 tvg-name="ES | IBERALIA 100% CAZA HD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA 100% CAZA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686669
+#EXTINF:-1 tvg-name="ES | IBERALIA 100% CAZA FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA 100% CAZA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686668
+#EXTINF:-1 tvg-name="ES | IBERALIA 100% CAZA FHD  1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA 100% CAZA FHD  1080p
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686667
+#EXTINF:-1 tvg-name="ES | IBERALIA TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA TV SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686666
+#EXTINF:-1 tvg-name="ES | IBERALIA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA TV HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686665
+#EXTINF:-1 tvg-name="ES | IBERALIA TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | IBERALIA TV FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686664
+#EXTINF:-1 tvg-name="ES | CAZA Y PESCA SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CAZA Y PESCA SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686663
+#EXTINF:-1 tvg-name="ES | CAZA Y PESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CAZA Y PESCA HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686662
+#EXTINF:-1 tvg-name="ES | CAZA Y PESCA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CAZPES.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CAZA Y PESCA FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686661
+#EXTINF:-1 tvg-name="ES | CAZAVISION SD" tvg-logo="https://play-lh.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CAZAVISION SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686660
+#EXTINF:-1 tvg-name="ES | CAZAVISION FHD" tvg-logo="https://play-lh.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="▶️ ES | DOCUMENTALES-portugal",ES | CAZAVISION FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686659
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES | DECASA UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="▶️ ES | DOCUMENTALES-portugal",ES | DECASA UHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/778525
+#EXTINF:-1 tvg-name="SP| ----- INFANTIL -----" tvg-logo="http://logo.sltv.site/logo/flag/spain.png" group-title="▶️ ES | NINOS-portugal",SP| ----- INFANTIL -----
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/178160
+#EXTINF:-1 tvg-name="ES | DISNEY CHANNEL SD" tvg-logo="https://www.pngitem.com/pimgs/m/29-291927_disney-plus-logo-png-transparent-png.png" group-title="▶️ ES | NINOS-portugal",ES | DISNEY CHANNEL SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686657
+#EXTINF:-1 tvg-name="ES | NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title="▶️ ES | NINOS-portugal",ES | NICKELODEON HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686655
+#EXTINF:-1 tvg-name="ES | NICKELODEON FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title="▶️ ES | NINOS-portugal",ES | NICKELODEON FHD 
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686654
+#EXTINF:-1 tvg-name="ES | CLAN TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="▶️ ES | NINOS-portugal",ES | CLAN TV SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686653
+#EXTINF:-1 tvg-name="ES | CLAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="▶️ ES | NINOS-portugal",ES | CLAN HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686652
+#EXTINF:-1 tvg-name="ES | CLAN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/Clan_TVE_logo_2008.png" group-title="▶️ ES | NINOS-portugal",ES | CLAN FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686651
+#EXTINF:-1 tvg-name="ES | DISNEY CHANNEL HD" tvg-logo="s:1:/images/0206bb740e60a1e217afda869ec6863c.png" group-title="▶️ ES | NINOS-portugal",ES | DISNEY CHANNEL HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686649
+#EXTINF:-1 tvg-name="ES | DISNEY CHANNEL FHD" tvg-logo="s:1:/images/0206bb740e60a1e217afda869ec6863c.png" group-title="▶️ ES | NINOS-portugal",ES | DISNEY CHANNEL FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686648
+#EXTINF:-1 tvg-name="ES | NIck JUNIOR FHD" tvg-logo="http://bm-7-cncxgmeeekdvefg5.z01.azurefd.net:80/images/91d4569492f38f06f756c6088cdb5250.png" group-title="▶️ ES | NINOS-portugal",ES | NIck JUNIOR FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686647
+#EXTINF:-1 tvg-name="ES | DISNEY Jr HD" tvg-logo="http://kongking.shop:2086/resize.php?max=42&url=https://static.epg.best/ca/DisneyJunior.ca.png" group-title="▶️ ES | NINOS-portugal",ES | DISNEY Jr HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686646
+#EXTINF:-1 tvg-name="ES | NICKJr. HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="▶️ ES | NINOS-portugal",ES | NICKJr. HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686644
+#EXTINF:-1 tvg-name="ES | NICK Jr. FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="▶️ ES | NINOS-portugal",ES | NICK Jr. FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686643
+#EXTINF:-1 tvg-name="ES | NICKELODEON FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title="▶️ ES | NINOS-portugal",ES | NICKELODEON FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686642
+#EXTINF:-1 tvg-name="ES | BOING SD" tvg-logo="http://xtitan.xyz:2082/images/ce236b9cfdb54ecaaeb245741bd8d393.png" group-title="▶️ ES | NINOS-portugal",ES | BOING SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686641
+#EXTINF:-1 tvg-name="ES | BOING  HD" group-title="▶️ ES | NINOS-portugal",ES | BOING  HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686640
+#EXTINF:-1 tvg-name="ES | BOING FHD" tvg-logo="http://xtitan.xyz:2082/images/ce236b9cfdb54ecaaeb245741bd8d393.png" group-title="▶️ ES | NINOS-portugal",ES | BOING FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686639
+#EXTINF:-1 tvg-name="ES | BABY TV SD" group-title="▶️ ES | NINOS-portugal",ES | BABY TV SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686638
+#EXTINF:-1 tvg-name="Pregunta StoryBo" group-title="▶️ ES | NINOS-portugal",Pregunta StoryBo
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686637
+#EXTINF:-1 tvg-name="Rapidos y furios" group-title="▶️ ES | NINOS-portugal",Rapidos y furios
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686636
+#EXTINF:-1 tvg-name="Sam ElBombero" group-title="▶️ ES | NINOS-portugal",Sam ElBombero
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686635
+#EXTINF:-1 tvg-name="Tibucan" group-title="▶️ ES | NINOS-portugal",Tibucan
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686634
+#EXTINF:-1 tvg-name="La Banda Del Pat" group-title="▶️ ES | NINOS-portugal",La Banda Del Pat
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686633
+#EXTINF:-1 tvg-name="Patoaventuras" group-title="▶️ ES | NINOS-portugal",Patoaventuras
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686632
+#EXTINF:-1 tvg-name="Oggy Oggy" group-title="▶️ ES | NINOS-portugal",Oggy Oggy
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686631
+#EXTINF:-1 tvg-name="Charlie en Villa" group-title="▶️ ES | NINOS-portugal",Charlie en Villa
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686630
+#EXTINF:-1 tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="▶️ ES | NINOS-portugal",Naruto
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686629
+#EXTINF:-1 tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="▶️ ES | NINOS-portugal",Naruto Shippuden
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686628
+#EXTINF:-1 tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="▶️ ES | NINOS-portugal",Death Note
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686627
+#EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="▶️ ES | NINOS-portugal",Yu-Gi-Oh
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686626
+#EXTINF:-1 tvg-name="Captain Tsubasa" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="▶️ ES | NINOS-portugal",Captain Tsubasa
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686625
+#EXTINF:-1 tvg-name="SP| ----- MUSIC -----" tvg-logo="http://logo.sltv.site/logo/flag/spain.png" group-title="▶️ ES | MUSICA-portugal",SP| ----- MUSIC -----
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/178159
+#EXTINF:-1 tvg-name="ES | MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="▶️ ES | MUSICA-portugal",ES | MTV HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686713
+#EXTINF:-1 tvg-name="ES | MEZZO LIVE FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="▶️ ES | MUSICA-portugal",ES | MEZZO LIVE FULL HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686728
+#EXTINF:-1 tvg-name="ES | ALL FLAMENCO HD" tvg-logo="https://allflamenco.net/wp-content/uploads/2023/07/logo-negro-rojo.png" group-title="▶️ ES | MUSICA-portugal",ES | ALL FLAMENCO HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686725
+#EXTINF:-1 tvg-name="ES | All FLAMENCO FHD" tvg-logo="https://allflamenco.net/wp-content/uploads/2023/07/logo-negro-rojo.png" group-title="▶️ ES | MUSICA-portugal",ES | All FLAMENCO FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686724
+#EXTINF:-1 tvg-name="ES | MTV Music 24" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="▶️ ES | MUSICA-portugal",ES | MTV Music 24
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686723
+#EXTINF:-1 tvg-name="ES | MTV CLASIC  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="▶️ ES | MUSICA-portugal",ES | MTV CLASIC  HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686722
+#EXTINF:-1 tvg-name="ES | MTV 00 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="▶️ ES | MUSICA-portugal",ES | MTV 00 SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686721
+#EXTINF:-1 tvg-name="ES | NOW ROCK" group-title="▶️ ES | MUSICA-portugal",ES | NOW ROCK
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686720
+#EXTINF:-1 tvg-name="ES | NOW 80s" group-title="▶️ ES | MUSICA-portugal",ES | NOW 80s
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686719
+#EXTINF:-1 tvg-name="ES | SUNDANCE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="▶️ ES | MUSICA-portugal",ES | SUNDANCE SD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686717
+#EXTINF:-1 tvg-name="ES | SUNDANCE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="▶️ ES | MUSICA-portugal",ES | SUNDANCE HD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686716
+#EXTINF:-1 tvg-name="ES | SUNDANCE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="▶️ ES | MUSICA-portugal",ES | SUNDANCE FHD
+http://ninjawide.dyndns.org:8080/AndreBernardo24/QmDUgXuqkuQH/686715
+
